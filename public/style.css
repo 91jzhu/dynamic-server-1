@@ -1,0 +1,23 @@
+div{
+    display:flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.ddiv{
+    box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.5); 
+    border-radius: 8px; 
+    width: 400px;
+    max-width: 100%;
+    padding: 20px 35px 20px; 
+    margin:auto;
+    position:absolute; 
+    top:50%;
+    left:50%;
+    margin:-160px 0 0 -200px; 
+}
+button{
+    width: 100px;
+    height: 40px;
+    border-radius: 24px;
+    margin-bottom: -15px;
+}

@@ -1,0 +1,14 @@
+13
+41C:\Users\DELL\Desktop\dynamic-server-1\db132727142301356186 1
+43C:\Users\DELL\Desktop\dynamic-server-1\dist132727195604979765 1
+45C:\Users\DELL\Desktop\dynamic-server-1\public132727191957345908 1
+55C:\Users\DELL\Desktop\dynamic-server-1\public\style.css132727052800262711 0
+56C:\Users\DELL\Desktop\dynamic-server-1\public\index.html132727191845985852 0
+48C:\Users\DELL\Desktop\dynamic-server-1\server.js132727075989108252 0
+46C:\Users\DELL\Desktop\dynamic-server-1\test.js132727153009360957 0
+53C:\Users\DELL\Desktop\dynamic-server-1\public\main.js132727068790544637 0
+57C:\Users\DELL\Desktop\dynamic-server-1\public\signup.html132727195603395269 0
+62C:\Users\DELL\Desktop\dynamic-server-1\dist\signup.e7aa21d4.js132727195604893997 0
+66C:\Users\DELL\Desktop\dynamic-server-1\dist\signup.e7aa21d4.js.map132727195604969819 0
+55C:\Users\DELL\Desktop\dynamic-server-1\dist\signup.html132727195604893997 0
+52C:\Users\DELL\Desktop\dynamic-server-1\db\users.json132727189454211111 0
